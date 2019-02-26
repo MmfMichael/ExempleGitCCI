@@ -1,0 +1,3 @@
+rootProject.name = 'exempleMobileCCI'
+
+include ':app'
